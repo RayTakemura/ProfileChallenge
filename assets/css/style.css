@@ -211,7 +211,7 @@ header a {
     background-size: cover;
     background-position: center;
 } 
-#streamSearch{
+.streamSearch{
     background-image: url("../images/streamSearch.png");
     background-size: cover;
     background-position: center;
