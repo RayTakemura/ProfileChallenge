@@ -211,8 +211,8 @@ header a {
     background-size: cover;
     background-position: center;
 } 
-#horiseon{
-    background-image: url("../images/horiseon-work.PNG");
+#stream-search{
+    background-image: url("https://github.com/RayTakemura/StreamSearch/blob/c47c02eca5643baa0949ac2450d2674a36b255be/client/src/assets/examples/Home.png?raw=true");
     background-size: cover;
     background-position: center;
 }
