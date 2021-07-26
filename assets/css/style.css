@@ -212,7 +212,7 @@ header a {
     background-position: center;
 } 
 #stream-search{
-    background-image: url("https://github.com/RayTakemura/StreamSearch/blob/c47c02eca5643baa0949ac2450d2674a36b255be/client/src/assets/examples/Home.png?raw=true");
+    background-image: url("../images/streamSearch.png");
     background-size: cover;
     background-position: center;
 }
